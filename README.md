@@ -67,6 +67,16 @@ A Spotify-inspired music player built using HTML, CSS and JavaScript.
 
 ---
 
+## 🧩 Problem Solving
+
+- 🟢 Solving **Data Structures & Algorithms** problems on LeetCode
+- 💻 Main language: **C++**
+- 📚 Practicing Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs and more
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MLhLJRfmVP/)
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-vats-838102383/)
