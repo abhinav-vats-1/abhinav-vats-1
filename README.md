@@ -8,6 +8,14 @@ I enjoy turning what I learn into projects and solving problems that help me und
 
 ---
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-vats-838102383/)
+
+---
+
+---
+
 ## 🧑‍💻 About Me
 
 - 🎓 Electronics & Communication Engineering student at BIT Mesra
