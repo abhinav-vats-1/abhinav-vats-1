@@ -77,12 +77,7 @@ A Spotify-inspired music player built using HTML, CSS and JavaScript.
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MLhLJRfmVP/)
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/MLhLJRfmVP?theme=dark)](https://leetcode.com/u/MLhLJRfmVP/)
 
----
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-vats-838102383/)
-[![Email](https://img.shields.io/badge/Email-abhinav1385a%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav1385a@gmail.com)
 
 ---
 
