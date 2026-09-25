@@ -90,6 +90,12 @@ A Spotify-inspired music player built using HTML, CSS and JavaScript.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-vats-1&layout=compact&theme=tokyonight)](https://github.com/abhinav-vats-1)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](./github-stats.svg)
+
+![Top Languages](./top-languages.svg)
+
 ---
 
 ⭐ Thanks for visiting my profile!
