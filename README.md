@@ -57,12 +57,13 @@ A Spotify-inspired music player built using HTML, CSS and JavaScript.
 
 ---
 
-## 📈 Current Focus
+## 🎯 Current Focus
 
-- 🧠 Strengthening Data Structures & Algorithms
-- 💻 Building better Web Development projects
-- 🔌 Learning Electronics & IoT through hands-on projects
-- 🚀 Preparing for internships and software engineering opportunities
+- 🧠 Strengthening **Data Structures & Algorithms** with C++
+- 🌐 Building and improving **Web Development** projects
+- 🔌 Exploring **Electronics, Arduino, ESP32 & IoT**
+- 💻 Building projects that combine software and hardware
+- 🚀 Preparing for **internships and software engineering opportunities**
 
 ---
 
