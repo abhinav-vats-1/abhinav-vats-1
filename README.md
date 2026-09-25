@@ -86,9 +86,9 @@ A Spotify-inspired music player built using HTML, CSS and JavaScript.
 
 ## 📊 GitHub Stats
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav-vats-1&show_icons=true&theme=tokyonight)
+[![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinav-vats-1&show_icons=true&theme=tokyonight)](https://github.com/abhinav-vats-1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-vats-1&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-vats-1&layout=compact&theme=tokyonight)](https://github.com/abhinav-vats-1)
 
 ---
 
