@@ -74,6 +74,7 @@ A Spotify-inspired music player built using HTML, CSS and JavaScript.
 - 📚 Practicing Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs and more
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MLhLJRfmVP/)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/MLhLJRfmVP?theme=dark)](https://leetcode.com/u/MLhLJRfmVP/)
 
 ---
 
